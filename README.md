@@ -23,7 +23,7 @@ Se deben de tener estas librerías instaladas antes de ejecutar el código. Se i
 
 
 ## Enunciado
-Dada las variables y,x<sub>1</sub>,x<sub>2</sub> dónde se han obtenida los siguientes datos: </br>
+Dada las variables y, x<sub>1</sub>, x<sub>2</sub> dónde se han obtenida los siguientes datos: </br>
 
 | y<sub>i</sub> | x<sub>1j</sub> | x<sub>2j</sub> |
 |----------------|----------------|----------------|
@@ -32,4 +32,4 @@ Dada las variables y,x<sub>1</sub>,x<sub>2</sub> dónde se han obtenida los sigu
 | -2             | -1             | 2              |
 | -3             | 0              | 3              |
 
-Obtener el plano de regresión de y sobre x<sub>1</sub>,x<sub>2</sub>.
+Obtener el plano de regresión de y sobre x<sub>1</sub>, x<sub>2</sub>.
